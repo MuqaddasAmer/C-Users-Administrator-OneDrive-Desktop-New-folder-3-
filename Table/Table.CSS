@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(36, 247, 201);
+}
+
+h1 {
+    border: 5px solid rgb(30, 0, 255);
+    border-radius: 25px;
+    border-style: ridge;
+    width: fit-content;
+}
+
+.table {
+    border: 5px solid rgb(254, 3, 3);
+    border-radius: 20px;
+
+}
+
+.head th {
+    text-align: center;
+    border: 5px solid rgb(255, 0, 195);
+    border-radius: 15px;
+    border-style: groove;
+    font-size: x-large;
+}
+
+.Data td {
+    font-size: large;
+    text-align: center;
+    border: 5px solid rgb(123, 0, 255);
+    border-radius: 15px;
+    border-style: double;
+}
